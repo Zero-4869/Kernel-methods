@@ -1,6 +1,6 @@
 This is a Kaggle Competition for MVA-Kernel Methods.
 
-Author: Hongyu Zhou & Xiaozhen Wang
+Team: Zhou & Wang
 
 To install dependence, run
 
